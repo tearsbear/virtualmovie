@@ -32,7 +32,7 @@ A modern React application that allows users to search for movies using the Movi
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/virtualmovie.git
+git clone https://github.com/tearsbear/virtualmovie.git
 cd virtualmovie
 ```
 
@@ -82,15 +82,3 @@ src/
 ## API Integration
 
 The application uses The Movie DB API for fetching movie data. The API key is configured in the `movieApi.ts` service file.
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
